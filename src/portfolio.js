@@ -433,6 +433,55 @@ const projects = {
         },
       ],
     },
+    {
+      id: "4",
+      name: "Spotify-Clone",
+      img: "https://user-images.githubusercontent.com/54769381/155874337-25f35169-8850-4709-b386-aec46da7f868.png",
+      url: "https://spotify-clone8.netlify.app/",
+      gitreplink: "https://github.com/Vaman93/spotify-clone",
+      description: "Spotify-Clone , Where user can listen to music for free",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+      ],
+    },
+    {
+      id: "5",
+      name: "Imgur-Clone",
+      img: "https://raw.githubusercontent.com/mayuriwasu1/imgur-clone/main/images/redme1.png",
+      url: "https://imgur-clone-beta.vercel.app/",
+      gitreplink: "https://github.com/Vaman93/imgur-clone",
+      description:
+        "Imgur is an image hosting and sharing site, favoured by users of social media and social news site.",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+      ],
+    },
   ],
 };
 
